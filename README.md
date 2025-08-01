@@ -78,11 +78,3 @@ Aplikacja będzie dostępna pod adresem `http://localhost:8000`.
 ## Przykład użycia
 
 Po rejestracji możesz dodawać własne zadania do listy, edytować je, usuwać oraz oznaczać jako ukończone.
-
-## Współtworzenie
-
-Chcesz pomóc rozwijać projekt? Stwórz forka, utwórz własną gałąź i wyślij Pull Request!
-
-## Licencja
-
-Projekt dostępny na licencji MIT.
